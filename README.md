@@ -62,7 +62,7 @@ src/
 
 1. **Clone the project:**
 ```bash
-git clone https://github.com/your-username/book-tracker.git
+https://github.com/nethmith/bookTrackerAPI.git
 cd book-tracker
 ````
 
